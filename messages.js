@@ -36,5 +36,10 @@ function generator() {
         case 7:
             console.log(kinshasa)
             break;
+
+        default:
+            console.log('Try again')
     }
 }
+
+generator();
